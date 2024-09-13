@@ -23,7 +23,7 @@ This endpoint provides 2 methods. `GET` and `PUT`.
 
 When setting the map you need to set both the `MapName` and `MapIndex` properties.
 
-```json
+```text
 MapName: "Procedural Map"
 MapIndex: 0
 
